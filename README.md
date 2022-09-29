@@ -2,7 +2,7 @@
 
  -📊 Formado em Engenharia Química e graduando em Ciência de Dados pela UNIVESP
  
- -📙 Estagiário em Ciência de Dados
+ -📙 Analista de Ciência de Dados Jr.
  
  -📚 Estudando Python para análise de dados
  
